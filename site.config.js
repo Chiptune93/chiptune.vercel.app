@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Spring Examples`,
+      href: "https://github.com/Chiptune93/springboot.java.example",
     },
   ],
   // blog setting (required)
